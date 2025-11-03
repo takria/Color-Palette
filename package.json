@@ -24,7 +24,7 @@
     "@mui/icons-material": "^7.1.0",
     "@mui/material": "^7.1.0",
     "chroma-js": "^3.1.2",
-    "color-pallete": "link:",
+    "emoji-mart": "^3.0.1",
     "framer-motion": "^12.16.0",
     "gh-pages": "^6.3.0",
     "rc-slider": "^11.1.8",
